@@ -146,3 +146,5 @@ If you would like to thank us for creating Elements, we ask that you [**buy the 
 [npm]: https://www.npmjs.com/package/@stoplight/elements
 [npm_image]: https://img.shields.io/npm/dw/@stoplight/elements?color=blue
 [stoplight_forest]: https://ecologi.com/stoplightinc
+
+<!-- Updated on 2025-08-28 12:40:33 by automated script -->
